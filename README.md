@@ -19,6 +19,8 @@
   <strong><a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/LIECRANEV2/V2.2.4.apk">Download Android APK (V2.2.4)</a></strong> · <a href="docs/INSTALL.md">Install guide</a> · <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/LIECRANEV2">Release information</a>
 </p>
 
+<p align="center"><strong>Connect with LIE_CRANE V2:</strong> <a href="https://www.facebook.com/profile.php?id=61595205793839">Facebook Page</a> · <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/latest">Latest Android Release</a></p>
+
 <p align="center">
   <a href="docs/LIEBHERR_DAILY_CODE_CALCULATOR.md"><strong>Daily Code &amp; Date Selection</strong></a> ·
   <a href="docs/FAQ.md"><strong>FAQ</strong></a> ·
@@ -171,6 +173,8 @@ Liebherr Daily Code · Daily Code Calculator · Crane Daily Code · Liebherr Cra
 #Liebherr #DailyCode #CraneCalculator #LICCON #MobileCrane #CraneMaintenance #HeavyEquipment #EngineeringTools
 
 ---
+
+<p align="center"><a href="https://www.facebook.com/profile.php?id=61595205793839"><strong>Follow LIE_CRANE V2 on Facebook</strong></a> · <a href="docs/FAQ.md">Read the FAQ</a> · <a href="docs/INSTALL.md">Install guide</a></p>
 
 <p align="center"><strong>Developed by ENG M · LIE_CRANE V2</strong><br>
 <sub>Independent app · Not affiliated with or endorsed by any crane manufacturer</sub></p>
