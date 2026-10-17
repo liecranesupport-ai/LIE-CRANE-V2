@@ -1,7 +1,8 @@
 <p align="center"><img src="assets/lie-crane-banner.svg" alt="LIE_CRANE V2 — ENG M — Daily Code Calculator" width="100%"></p>
 
-<h1 align="center">LIE_CRANE V2</h1>
-<p align="center"><strong>Independent Android Daily Code Calculator for Crane Professionals</strong></p>
+<h1 align="center">LIE_CRANE V2 — Liebherr Daily Code Calculator for Android</h1>
+<p align="center"><strong>Selectable historical dates · Crane serial input · Three result levels · In-app trial and license support</strong></p>
+<p align="center"><em>Independent third-party app for authorized mobile-crane service and maintenance professionals.</em></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Android-7.0%2B-26A69A?style=flat-square" alt="Android 7.0+">
   <img src="https://img.shields.io/badge/Latest%20App-2.2.4-D4A548?style=flat-square" alt="App version 2.2.4">
@@ -19,6 +20,13 @@
 </p>
 
 <p align="center">
+  <a href="docs/LIEBHERR_DAILY_CODE_CALCULATOR.md"><strong>Daily Code &amp; Date Selection</strong></a> ·
+  <a href="docs/FAQ.md"><strong>FAQ</strong></a> ·
+  <a href="docs/INSTALL.md"><strong>Install</strong></a> ·
+  <a href="docs/MEDIA_KIT.md"><strong>Media Kit</strong></a>
+</p>
+
+<p align="center">
   <a href="#-why-lie_crane-v2">Why this app</a> ·
   <a href="#-daily-codes-for-selected-dates">Change the date</a> ·
   <a href="#-download--install">Download</a> ·
@@ -27,9 +35,9 @@
 
 ---
 
-## ⚡ Liebherr Daily Code Calculator — with a date you choose
+## ⚡ Liebherr Daily Code Calculator for Android — Choose a Date Other Than Today
 
-**Need to calculate a crane daily code for a date other than today?**
+**Searching for a Liebherr Daily Code Calculator that lets you select an earlier date?** LIE_CRANE V2 is an independent Android application for authorized mobile crane technicians and maintenance engineers. Its standout feature is **manual historical-date selection**—use the date shown on a crane instead of being limited to the current date.
 
 LIE_CRANE V2 provides a mobile calculation workflow for crane serial numbers and **user-selected dates**, including historical dates. Enter the crane serial, select the relevant **day / month / year**, and review the code for the required access level.
 
@@ -56,6 +64,8 @@ This is a focused feature for authorized maintenance and technical workflows; su
 | 🔄 **Update notifications** | The Client Portal can show when a newer app version is available. |
 
 ### 🗓️ Daily codes for selected dates
+
+**[Explore the Liebherr Daily Code / Historical Date Guide →](docs/LIEBHERR_DAILY_CODE_CALCULATOR.md)**
 
 The workflow displayed in the application:
 
@@ -85,7 +95,7 @@ The app includes a **Client Portal**, **Calculation Details**, and **Calculation
 
 ### ➡️ [Download V2.2.4 APK (Android)](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/LIECRANEV2/V2.2.4.apk)
 
-[**View the published release**](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/LIECRANEV2) · [**Step-by-step installation guide**](docs/INSTALL.md) · [**Release information**](docs/RELEASE_BODY_v2.2.4.md)
+[**View the published release**](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/LIECRANEV2) · [**Step-by-step installation guide**](docs/INSTALL.md) · [**Release information**](docs/RELEASE_BODY_v2.2.4.md) · [**Daily code date-selection guide**](docs/LIEBHERR_DAILY_CODE_CALCULATOR.md) · [**Frequently asked questions**](docs/FAQ.md)
 
 **File:** `V2.2.4.apk` · **Size:** 2.96 MB · **Android:** 7.0+ · **Version:** 2.2.4
 
@@ -139,6 +149,14 @@ Use **Renew / Buy License** or **Support & Contact** inside the application. The
 **Is this an official Liebherr or LICCON application?**
 
 **No.** LIE_CRANE V2 is an independent, third-party Android tool. References to Liebherr and LICCON describe the technical context only and **do not imply affiliation, sponsorship or manufacturer approval**.
+
+## 🌍 Share the official app
+
+**Official project:** https://github.com/liecranesupport-ai/LIE-CRANE-V2
+
+For colleagues searching for **Liebherr Daily Code**, **LICCON Daily Code Calculator**, **crane serial code**, or **historical-date crane calculation**, share the **[dedicated feature guide](docs/LIEBHERR_DAILY_CODE_CALCULATOR.md)** or the **[public V2.2.4 release](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/LIECRANEV2)**.
+
+For license purchase and activation questions, contact **Support & Contact** inside the app.
 
 ## ⚠️ Safety & authorized use
 
