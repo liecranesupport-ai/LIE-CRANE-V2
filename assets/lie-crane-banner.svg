@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">LIE_CRANE V2 — ENG M</title>
+  <desc id="desc">Independent Android daily code calculator for crane professionals</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0A1118"/><stop offset="1" stop-color="#15252D"/></linearGradient>
+    <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#FFE29A"/><stop offset=".5" stop-color="#F2BA51"/><stop offset="1" stop-color="#C98B27"/></linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <path d="M0 316h1200" stroke="#3F5260" stroke-width="2"/>
+  <path d="M40 40h1120M40 320h1120" stroke="#C79642" stroke-width="2" opacity=".5"/>
+  <g transform="translate(46 35)" fill="none" stroke="url(#gold)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M38 251V108l64-54 71 54v143M72 251V130m60 121V130"/>
+    <path d="M23 101h164M46 68h117M102 54V12"/>
+    <path d="M160 55h102l-56 28H102M255 55l-20 30M197 83v88m0 0c0 14-12 20-12 32 0 13 23 18 30 3"/>
+    <circle cx="102" cy="51" r="10" fill="#0A1118"/>
+    <path d="M10 251h260M24 265h236"/>
+  </g>
+  <text x="365" y="120" font-size="32" fill="#F2BA51" letter-spacing="9" font-family="Arial,Helvetica,sans-serif">ENG M · ANDROID</text>
+  <text x="365" y="215" font-size="77" font-weight="800" fill="#F4F7FA" font-family="Arial,Helvetica,sans-serif">LIE_CRANE <tspan fill="url(#gold)">V2</tspan></text>
+  <text x="365" y="269" font-size="27" fill="#B8CBD0" font-family="Arial,Helvetica,sans-serif">Daily Code Calculator · Selectable Dates</text>
+  <rect x="366" y="289" width="440" height="5" rx="2.5" fill="#2DC5AE"/>
+  <text x="1125" y="323" font-size="13" text-anchor="end" fill="#C0CCD0" font-family="Arial,Helvetica,sans-serif">INDEPENDENT ENGINEERING APP</text>
+</svg>
