@@ -64,7 +64,11 @@ The workflow displayed in the application:
 
 The app includes a **Client Portal**, **Calculation Details**, and **Calculation Results** screens, with a dark interface, gold accents and clearly separated result levels.
 
-**Actual screenshots:** Being prepared for the public release. The app screenshots currently provided by the developer display V2.2.3; the supplied APK is V2.2.4.
+<p align="center">
+  <img src="assets/daily-code-workflow.svg" alt="Illustration of the actual app's workflow: crane serial, selectable calculation date and three code levels" width="100%">
+</p>
+
+<sub>This vector illustration summarizes the actual workflow. It is not a screenshot. Real screen captures will be added after their upload to the repository. The supplied screenshots show V2.2.3; the latest APK submitted by the developer is V2.2.4.</sub>
 
 ## 📥 Download & install
 
@@ -72,7 +76,7 @@ The app includes a **Client Portal**, **Calculation Details**, and **Calculation
 
 ➡️ **[GitHub Releases — official APK distribution](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases)**
 
-**Release publishing status:** The V2.2.4 APK is being prepared for upload. **If no release is visible, the download is not available yet.**
+**Release publishing status:** The V2.2.4 APK has not yet been uploaded as a GitHub Release. **If no release is visible, the download is not available yet.**
 
 Once the release is published:
 
