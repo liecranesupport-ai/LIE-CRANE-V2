@@ -58,6 +58,13 @@ I'm a crane maintenance engineer working on an independent Android daily-code ca
 ## Short video CTA
 > The crane shows a different date? Select it. Enter the crane serial. Review all three result levels. LIE_CRANE V2 — independent Android tool for authorized crane professionals. Trial and license support inside the app. Official release on GitHub.
 
+
+## Facebook Page launch resources
+
+The dedicated [Facebook Page Launch Pack](FACEBOOK_LAUNCH.md) includes a ready-to-use Page bio, About description, pinned launch announcement, follow-up posts, common customer replies, safety disclaimers and a two-week publishing calendar.
+
+**Official Page URL:** Add only after the actual Facebook Page link is supplied and verified. The official Android download remains the [GitHub V2.2.4 release](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/LIECRANEV2).
+
 ## Social sharing keywords
 Liebherr daily code, daily code calculator, LICCON code, crane serial calculator, historical date calculator, mobile crane service, crane maintenance app, Android crane calculator, crane service technicians.
 
