@@ -10,6 +10,15 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/LIECRANEV2/V2.2.4.apk"><img src="https://img.shields.io/badge/⬇_DOWNLOAD_APK-V2.2.4-20C8B0?style=for-the-badge" alt="Download LIE_CRANE V2.2.4 APK" /></a>
+  <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/LIECRANEV2"><img src="https://img.shields.io/badge/GitHub-View_Release-D4A548?style=for-the-badge" alt="View verified public GitHub release" /></a>
+</p>
+
+<p align="center">
+  <strong><a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/LIECRANEV2/V2.2.4.apk">Download Android APK (V2.2.4)</a></strong> · <a href="docs/INSTALL.md">Install guide</a> · <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/LIECRANEV2">Release information</a>
+</p>
+
+<p align="center">
   <a href="#-why-lie_crane-v2">Why this app</a> ·
   <a href="#-daily-codes-for-selected-dates">Change the date</a> ·
   <a href="#-download--install">Download</a> ·
@@ -68,26 +77,31 @@ The app includes a **Client Portal**, **Calculation Details**, and **Calculation
   <img src="assets/daily-code-workflow.svg" alt="Illustration of the actual app's workflow: crane serial, selectable calculation date and three code levels" width="100%">
 </p>
 
-<sub>This vector illustration summarizes the actual workflow. It is not a screenshot. Real screen captures will be added after their upload to the repository. The supplied screenshots show V2.2.3; the latest APK submitted by the developer is V2.2.4.</sub>
+<sub>This vector diagram illustrates the workflow; it is not a screenshot. Real screenshots supplied by the developer show V2.2.3, while the published Android APK is V2.2.4. Public screenshots will be added after appropriate redaction.</sub>
 
 ## 📥 Download & install
 
-**Latest supplied Android package: V2.2.4**
+**LIE_CRANE V2.2.4 is now officially published on GitHub Releases.**
 
-➡️ **[GitHub Releases — official APK distribution](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases)**
+### ➡️ [Download V2.2.4 APK (Android)](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/LIECRANEV2/V2.2.4.apk)
 
-**Release publishing status:** The V2.2.4 APK has not yet been uploaded as a GitHub Release. **If no release is visible, the download is not available yet.**
+[**View the published release**](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/LIECRANEV2) · [**Step-by-step installation guide**](docs/INSTALL.md) · [**Release information**](docs/RELEASE_BODY_v2.2.4.md)
 
-Once the release is published:
+**File:** `V2.2.4.apk` · **Size:** 2.96 MB · **Android:** 7.0+ · **Version:** 2.2.4
 
-1. Open **Releases** and select the latest version.
-2. Download the attached **APK** under **Assets**.
-3. Install it through Android's standard package installer, allowing installation from your browser or file manager if prompted.
-4. Open the app and follow the in-app registration / trial process.
+**Published SHA-256:**
+```text
+52edb324d7a5e7d335fdb9d8403fabee0d16c2cdc5ad599d9da5909080304b16
+```
 
-Install only builds published by this official repository. Do not download modified APKs from third-party sites.
+1. Download the original APK using the link above or via **Assets** on the GitHub Release.
+2. Check the APK checksum against the value above.
+3. Install with Android's regular APK installer; Android may ask permission to install from your browser or file manager.
+4. Launch the app and follow the in-app registration, device verification and trial/license access process.
 
-📖 **[Android installation guide](docs/INSTALL.md)** · 🗞️ **[Media information and launch copy](docs/MEDIA_KIT.md)**
+**Before installing over an older version:** The signing certificate must match. If the application does not install as an update, contact support rather than uninstalling a licensed installation.
+
+Install only files from the official repository. A downloadable APK has been published, but successful installation, attestation, trial enrollment and activation on external customer devices have **not** been independently verified here.
 
 ## 💬 Trial, licenses & support
 
