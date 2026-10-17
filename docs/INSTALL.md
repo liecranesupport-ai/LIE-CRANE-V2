@@ -1,14 +1,16 @@
 # Install LIE_CRANE V2 on Android
 
-> **Official app distribution:** [LIE_CRANE V2 GitHub Releases](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases)
+> **Official Android APK:** [**Download LIE_CRANE V2.2.4**](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/LIECRANEV2/V2.2.4.apk)  
+> **Official release:** [LIE_CRANE V2.2.4 on GitHub](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/LIECRANEV2)
 
-**Current release candidate:** V2.2.4 (`com.engm.liecrane.client`).  
+**Current public release:** V2.2.4 (`com.engm.liecrane.client`).  
 **Minimum Android:** Android 7.0 (API 24), as indicated by the submitted APK.  
-**Distribution status:** An APK will become downloadable on GitHub **only after** a Release containing an APK asset is published.
+**Distribution status:** **Published.** Download `V2.2.4.apk` from the public GitHub release.  
+**SHA-256:** `52edb324d7a5e7d335fdb9d8403fabee0d16c2cdc5ad599d9da5909080304b16`
 
 ## Installation
 1. Visit the official **Releases** page above.
-2. Select the latest available release and expand **Assets**.
+2. Select the published V2.2.4 release and expand **Assets**.
 3. Download the `.apk` asset.
 4. Verify the SHA-256 against the value supplied on the same Release page.
 5. Open the file and follow Android's prompts for permission to install from that browser or file manager, only if Android requires it.
