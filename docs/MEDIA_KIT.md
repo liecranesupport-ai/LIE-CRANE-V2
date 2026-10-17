@@ -3,7 +3,7 @@
 **Product:** LIE_CRANE V2  
 **Developer signature:** ENG M  
 **Platform:** Android  
-**Official distribution:** [GitHub Releases](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases)  
+**Official distribution:** [V2.2.4 APK](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/LIECRANEV2/V2.2.4.apk) · [Public release](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/LIECRANEV2)  
 **Current supplied build:** V2.2.4
 
 ## Short description (for directory listings)
@@ -43,8 +43,8 @@ One feature I especially wanted to include: **you can choose a calculation date 
 ✅ In-app trial eligibility and license status  
 ✅ License renewal or purchase inquiries through in-app support
 
-Available via the official GitHub Releases page once the APK is published:
-https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases
+The V2.2.4 Android APK is now published on GitHub:
+https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/LIECRANEV2/V2.2.4.apk
 
 I'd value feedback from authorized mobile crane maintenance engineers and service technicians: **how often do you need to work with a date other than today?**
 
