@@ -5,9 +5,15 @@
 **Official Android release:** https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/LIECRANEV2  
 **Direct V2.2.4 download:** https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/LIECRANEV2/V2.2.4.apk
 
-> **Page link:** Awaiting the actual Facebook Page URL from the page owner. Do not publish a made-up Facebook profile URL or handle.
+> **Facebook Page URL supplied by the owner:** https://www.facebook.com/profile.php?id=61595205793839
+>
+> This is the supplied Page address. Facebook does not expose the full Page preview to this integration; its displayed name, branding, public visibility and posting status have not been independently inspected.
 
 ---
+
+### Direct link to the page
+
+**[Open the Facebook Page](https://www.facebook.com/profile.php?id=61595205793839)**
 
 ## 1. Facebook Page identity
 
