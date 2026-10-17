@@ -63,7 +63,7 @@ I'm a crane maintenance engineer working on an independent Android daily-code ca
 
 The dedicated [Facebook Page Launch Pack](FACEBOOK_LAUNCH.md) includes a ready-to-use Page bio, About description, pinned launch announcement, follow-up posts, common customer replies, safety disclaimers and a two-week publishing calendar.
 
-**Official Page URL:** Add only after the actual Facebook Page link is supplied and verified. The official Android download remains the [GitHub V2.2.4 release](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/LIECRANEV2).
+**Facebook Page (owner-provided URL):** [LIE_CRANE V2 on Facebook](https://www.facebook.com/profile.php?id=61595205793839). Facebook's rendered Page identity and public visibility were not independently verified by this integration. The official download remains the [GitHub V2.2.4 release](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/LIECRANEV2).
 
 ## Social sharing keywords
 Liebherr daily code, daily code calculator, LICCON code, crane serial calculator, historical date calculator, mobile crane service, crane maintenance app, Android crane calculator, crane service technicians.
