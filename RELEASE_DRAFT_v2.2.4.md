@@ -1,8 +1,10 @@
-# LIE_CRANE V2 — V2.2.4 release draft
+# LIE_CRANE V2 — V2.2.4 public release record
 
-**Release tag:** `v2.2.4`  
-**Release title:** `LIE_CRANE V2.2.4 — Android Daily Code Calculator`  
-**Suggested APK filename:** `LIE_CRANE_V2.2.4.apk`
+**Published release tag:** `LIECRANEV2`  
+**Public release name:** `LIE_CRANE V2`  
+**Public release URL:** https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/LIECRANEV2  
+**Published APK filename:** `V2.2.4.apk`  
+**Direct APK download:** https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/LIECRANEV2/V2.2.4.apk
 
 ## Highlights
 - Daily code calculation interface using crane serial and selectable day, month and year.
@@ -32,10 +34,10 @@
 - [ ] Test registration, attestation, trial, licensed access and calculator in a clean installation on a real Android device.
 - [ ] Confirm the update flow matches this same signing key.
 - [ ] Confirm support can be contacted from the published build.
-- [ ] Attach the **original APK** to GitHub Releases and confirm the published file's SHA-256.
+- [x] The APK is attached to a public GitHub Release and its GitHub SHA-256 digest matches the uploaded file.
 - [ ] Review branding and all licensed/OEM references.
 
 **Important:** Authorized personnel only. This is an independent third-party app, not an official Liebherr/LICCON product. It does not replace OEM documentation, approved access procedures or lifting safety processes.
 
-## Publishing limitation
-The currently connected GitHub actions permit repository file editing but do not expose an action to upload a binary APK as a GitHub Release asset. Therefore, this is a **draft**, not an announcement that a downloadable GitHub Release already exists.
+## Current publication status
+The public GitHub Release is **published** and the downloadable APK is attached. The actual Release description remains brief; the expanded, ready-to-paste description lives in [docs/RELEASE_BODY_v2.2.4.md](docs/RELEASE_BODY_v2.2.4.md). End-to-end external-device testing is still pending.
