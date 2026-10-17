@@ -87,6 +87,8 @@ Once the release is published:
 
 Install only builds published by this official repository. Do not download modified APKs from third-party sites.
 
+📖 **[Android installation guide](docs/INSTALL.md)** · 🗞️ **[Media information and launch copy](docs/MEDIA_KIT.md)**
+
 ## 💬 Trial, licenses & support
 
 The **trial, license management, device verification and support are all handled inside LIE_CRANE V2**. No separate license-sales website is required.
