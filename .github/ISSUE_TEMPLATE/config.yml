@@ -1,0 +1,9 @@
+# Public reporting routes for LIE_CRANE V2.
+blank_issues_enabled: false
+contact_links:
+  - name: "General questions, feedback and feature ideas — Discussions"
+    url: "https://github.com/liecranesupport-ai/LIE-CRANE-V2/discussions"
+    about: "Ask general questions, share engineering feedback and propose improvements. Do not post sensitive crane or customer details."
+  - name: "Licensing, trial, device transfer or customer support — Inside the app"
+    url: "https://github.com/liecranesupport-ai/LIE-CRANE-V2#-trial-licenses--support"
+    about: "Install LIE_CRANE V2 and open Support & Contact in the Client Portal. Do not put private license or payment information in public Issues."
