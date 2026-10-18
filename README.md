@@ -81,6 +81,20 @@ The workflow displayed in the application:
 
 **Example:** A user may enter **17 October 2020** even when the current date is different. This illustrates the manual date-selection capability; it is not an assurance that any crane or access system accepts a particular result.
 
+## 🎬 Watch LIE_CRANE V2 in action
+
+<p align="center">
+  <a href="LIE_CRANE_V2_Professional_Demo.mp4" title="Watch the LIE_CRANE V2 app demonstration">
+    <img src="assets/app-demo-cover.svg" alt="Watch the LIE_CRANE V2 app demonstration — client portal, selectable dates, results and support" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <strong><a href="LIE_CRANE_V2_Professional_Demo.mp4">▶ WATCH THE APP DEMO (44 seconds)</a></strong> · <a href="https://raw.githubusercontent.com/liecranesupport-ai/LIE-CRANE-V2/main/LIE_CRANE_V2_Professional_Demo.mp4">Download MP4</a> · <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/LIECRANEV2/V2.2.4.apk">Download Android APK</a>
+</p>
+
+A short walkthrough of the Client Portal, manual date selection, calculation screens and in-app support. Personal details, support identifiers and actual calculation values are obscured in the public demo. The interface shown is illustrative of app functionality and does not constitute verification of crane compatibility or authorization.
+
 ## 📸 App preview
 
 The app includes a **Client Portal**, **Calculation Details**, and **Calculation Results** screens, with a dark interface, gold accents and clearly separated result levels.
