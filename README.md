@@ -19,7 +19,7 @@
   <strong><a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/LIECRANEV2/V2.2.4.apk">Download Android APK (V2.2.4)</a></strong> · <a href="docs/INSTALL.md">Install guide</a> · <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/LIECRANEV2">Release information</a>
 </p>
 
-<p align="center"><strong>Connect with LIE_CRANE V2:</strong> <a href="https://www.facebook.com/profile.php?id=61595205793839">Facebook Page</a> · <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/latest">Latest Android Release</a></p>
+<p align="center"><strong>Connect with LIE_CRANE V2:</strong> <a href="https://www.facebook.com/profile.php?id=61595205793839">Facebook Page</a> · <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/discussions">Community Discussions</a> · <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/issues/new/choose">Report a Bug</a> · <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/latest">Latest Android Release</a></p>
 
 <p align="center">
   <a href="docs/LIEBHERR_DAILY_CODE_CALCULATOR.md"><strong>Daily Code &amp; Date Selection</strong></a> ·
@@ -139,6 +139,18 @@ The **trial, license management, device verification and support are all handled
 - **Device change or activation trouble?** Contact the support team through the same in-app support flow.
 
 Pricing and eligibility are confirmed by support; do not send payment to unverified third parties.
+
+## 🤝 Join the LIE_CRANE V2 community
+
+Have a question about the app, an idea for an improved workflow or feedback on the manual date-selection screen? Join our **[GitHub Discussions community](https://github.com/liecranesupport-ai/LIE-CRANE-V2/discussions)**.
+
+- **[Ask a question or suggest a feature → Discussions](https://github.com/liecranesupport-ai/LIE-CRANE-V2/discussions)**
+- **[Report a reproducible app bug → Bug report form](https://github.com/liecranesupport-ai/LIE-CRANE-V2/issues/new/choose)**
+- **[Read the community guidelines](CONTRIBUTING.md)** and [welcome message](docs/COMMUNITY_WELCOME.md).
+
+**Private account and customer requests belong in the app.** For trial eligibility, device changes, license purchases, pricing, renewals and customer-specific support, use **Renew / Buy License** or **Support & Contact** in the Client Portal.
+
+**Protect customer and crane information.** Do not post actual daily/access codes, customer-linked serial numbers, device IDs, credentials, license keys, personal data or identifiable screenshots in public GitHub comments. Use fictional examples where possible.
 
 ## 🔎 Frequently asked questions
 
