@@ -1,0 +1,86 @@
+name: "Bug report"
+description: "Report a reproducible LIE_CRANE V2 Android issue (not a license or private support request)."
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve LIE_CRANE V2.
+
+        **Please do not publish any daily/access codes, crane serial numbers tied to customers, personal data, emails, device identifiers, license keys, login details, payment information, logs with secrets, or private customer screenshots.**
+
+        For account, trial, activation, payment, device transfer or licensing issues, use **Support & Contact inside the Android app**, not a public GitHub Issue.
+
+        For general questions or feature ideas, use [GitHub Discussions](https://github.com/liecranesupport-ai/LIE-CRANE-V2/discussions).
+  - type: dropdown
+    id: affected_area
+    attributes:
+      label: "Affected area"
+      description: "Choose the part of the app exhibiting the problem."
+      options:
+        - "Installation or app update"
+        - "Client Portal UI"
+        - "Date selection or calendar"
+        - "Crane serial input UI (do not provide a real serial)"
+        - "Calculation result screen/UI (do not share real results)"
+        - "Navigation or screen rendering"
+        - "Other app behavior"
+    validations:
+      required: true
+  - type: input
+    id: app_version
+    attributes:
+      label: "App version"
+      description: "Example: 2.2.4"
+      placeholder: "2.2.4"
+    validations:
+      required: true
+  - type: input
+    id: android
+    attributes:
+      label: "Android version"
+      description: "Android version only; avoid uniquely identifying device information."
+      placeholder: "e.g. Android 14"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Steps to reproduce"
+      description: "Explain the screen actions using fictional example values. Do not include real credentials, serials or codes."
+      placeholder: |
+        1. Open...
+        2. Tap...
+        3. Observe...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: "Expected behavior"
+      placeholder: "What did you expect the app to do?"
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: "Actual behavior"
+      placeholder: "What happened instead? Quote only non-sensitive UI text."
+    validations:
+      required: true
+  - type: textarea
+    id: additional
+    attributes:
+      label: "Additional public-safe context (optional)"
+      description: "Include redacted screenshots only if no customer, access-code, serial, or credential data can be read."
+    validations:
+      required: false
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: "Privacy and responsible reporting"
+      options:
+        - label: "I have removed access codes, customer details, equipment serials, license or device identifiers, and all other sensitive data."
+          required: true
+        - label: "This report concerns normal authorized use and does not ask for help bypassing access controls."
+          required: true
