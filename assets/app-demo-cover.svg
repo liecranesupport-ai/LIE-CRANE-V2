@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">LIE_CRANE V2 - Watch the 44-second app demonstration</title>
+  <desc id="desc">Stylized promotional cover with a play symbol; select this image to view the redacted walkthrough.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#09141B"/><stop offset="1" stop-color="#1A2B34"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1"><stop stop-color="#FFE6AC"/><stop offset=".55" stop-color="#E7B65F"/><stop offset="1" stop-color="#C68A2F"/></linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#202F39"/><stop offset="1" stop-color="#111D25"/></linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1200" height="630" rx="24" fill="url(#bg)"/>
+  <path d="M32 34h1136M32 591h1136" stroke="#D1A257" stroke-width="2" opacity=".45"/>
+  <g fill="none" stroke="#40616B" stroke-width="2" opacity=".27">
+    <path d="M20 470h650l120-55h350M0 505h1200M0 535h1200"/>
+    <path d="M590 120v330M603 140l140 60M660 78v365"/>
+  </g>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <text x="66" y="90" font-size="22" fill="#D6B577" letter-spacing="5">ENG M  /  ANDROID ENGINEERING TOOL</text>
+    <text x="64" y="200" font-size="76" fill="#F7F8F9" font-weight="800">LIE_CRANE <tspan fill="url(#gold)">V2</tspan></text>
+    <text x="66" y="252" font-size="31" fill="#CBDBDE">See the app in action</text>
+    <rect x="66" y="280" width="498" height="4" rx="2" fill="#D4A658" opacity=".85"/>
+    <text x="66" y="337" font-size="24" fill="#D3DBDE">Client portal · Date selection</text>
+    <text x="66" y="374" font-size="24" fill="#D3DBDE">Calculation screens · In-app support</text>
+    <circle cx="111" cy="456" r="50" fill="#E4B85E"/>
+    <circle cx="111" cy="456" r="42" fill="#10212A" stroke="#FFE4A1" stroke-width="2"/>
+    <path d="M98 434l36 22-36 22z" fill="#F6D791"/>
+    <text x="184" y="452" font-size="27" fill="#F3D28A" font-weight="700">WATCH THE DEMO</text>
+    <text x="184" y="485" font-size="20" fill="#B9CCCE">44 seconds · Privacy-redacted video</text>
+    <text x="66" y="566" font-size="17" fill="#97ADB4">Independent third-party app · For authorized professional use</text>
+  </g>
+  <g transform="translate(852 60)">
+    <rect x="0" y="0" width="265" height="505" rx="40" fill="#0A1117" stroke="#DAAD65" stroke-width="5"/>
+    <rect x="13" y="16" width="239" height="471" rx="27" fill="url(#screen)"/>
+    <rect x="93" y="13" width="81" height="15" rx="7.5" fill="#0A1117"/>
+    <text x="132" y="78" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#EDC779">LIE_CRANE V2</text>
+    <text x="132" y="112" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#AFC3C7">CLIENT PORTAL</text>
+    <rect x="33" y="143" width="199" height="55" rx="9" fill="#283A42" stroke="#415961"/>
+    <circle cx="56" cy="171" r="7" fill="#35BB9B"/>
+    <text x="73" y="176" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#E5ECEE">ACCESS STATUS</text>
+    <rect x="33" y="216" width="199" height="55" rx="9" fill="#283A42" stroke="#415961"/>
+    <text x="50" y="239" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#C8D7D9">DATE SELECTION</text>
+    <path d="M50 254h145" stroke="#E7B65F" stroke-width="5" stroke-linecap="round"/>
+    <rect x="33" y="290" width="199" height="132" rx="9" fill="#17252F" stroke="#415961"/>
+    <text x="50" y="313" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#F2CE86">RESULT LEVELS</text>
+    <g font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#DDE7E8">
+      <text x="50" y="345">LEVEL 1</text><text x="50" y="379">LEVEL 2</text><text x="50" y="413">LEVEL 3</text>
+    </g>
+    <g fill="#617A83"><rect x="131" y="333" width="74" height="13" rx="3"/><rect x="131" y="367" width="74" height="13" rx="3"/><rect x="131" y="401" width="74" height="13" rx="3"/></g>
+    <rect x="82" y="451" width="102" height="5" rx="2" fill="#DAAD65" opacity=".8"/>
+  </g>
+</svg>
