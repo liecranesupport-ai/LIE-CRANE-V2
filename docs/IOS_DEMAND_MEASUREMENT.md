@@ -10,7 +10,7 @@ Start baseline: 2026-10-19. Goal: identify demand **among actual crane-service p
 
 ## What can and cannot be measured today
 
-This static GitHub Pages site does not include configured analytics or an anonymous form backend. It **cannot yet measure all site visitors by operating system**, unique devices, impressions, click-through rates, or Android-vs-iOS traffic. GitHub Issues and Facebook messages are self-selected samples, not representative of all searchers. Some prospects will have neither account.
+A privacy-first Cloudflare Web Analytics loader has been prepared, but analytics will not collect visits until an owner-generated Cloudflare site token is installed (see [Analytics setup](ANALYTICS_SETUP.md)). This static GitHub Pages site has no anonymous form backend. It **cannot yet measure all site visitors by operating system**, unique devices, impressions, click-through rates, or Android-vs-iOS traffic. GitHub Issues and Facebook messages are self-selected samples, not representative of all searchers. Some prospects will have neither account.
 
 If the project owner later enables a privacy-respecting analytics service, add the verified site ID and an appropriate privacy notice before collecting website analytics. Track page views segmented by OS (Android/iOS/Other) and button events (`android_download`, `ios_interest`) without uploading names, emails, equipment serial numbers, access codes, or account credentials. Never add an unverified analytics ID or secret to the repository.
 
