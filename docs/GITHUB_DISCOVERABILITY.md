@@ -2,6 +2,8 @@
 
 **Prepared:** 19 October 2026. Files are committed, but **GitHub Pages must be enabled** by the repository owner before the public website URL is live.
 
+> **Update (19 October 2026):** The owner has confirmed the site opens, and GitHub Pages reports a successful deployment. English and Arabic landing pages, a two-language sitemap, and a factual llms.txt file are now in the /docs publishing directory. The remaining account-level work is the About description, Topics and optional verified Search Console/Bing registration.
+
 ## Step 1 — Enable the page (repository owner action)
 
 Open **https://github.com/liecranesupport-ai/LIE-CRANE-V2/settings/pages** and set:
