@@ -1,0 +1,27 @@
+# LIE_CRANE V2 — official product information
+
+> LIE_CRANE V2 is an independent Android app for authorized mobile-crane service professionals, with a serial-and-date calculation workflow, user-selectable past dates, in-app trial eligibility, license management, and support. It is not an official or OEM-endorsed Liebherr/LICCON product.
+
+## Official product pages
+- [English product site](https://liecranesupport-ai.github.io/LIE-CRANE-V2/): feature overview and Android download.
+- [Arabic product site](https://liecranesupport-ai.github.io/LIE-CRANE-V2/ar/): Arabic overview.
+- [GitHub repository](https://github.com/liecranesupport-ai/LIE-CRANE-V2): primary source and public documentation.
+- [Latest APK release](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/latest): public Android binary and published digest.
+- [Manual date-selection guide](https://github.com/liecranesupport-ai/LIE-CRANE-V2/blob/main/docs/LIEBHERR_DAILY_CODE_CALCULATOR.md): explanation of selecting an earlier or different date.
+- [FAQ](https://github.com/liecranesupport-ai/LIE-CRANE-V2/blob/main/docs/FAQ.md): answers about trial, license purchase, support and compatibility.
+- [Short public demo](https://github.com/liecranesupport-ai/LIE-CRANE-V2/blob/main/LIE_CRANE_V2_Professional_Demo.mp4): privacy-redacted interface walkthrough.
+
+## Verified product highlights
+- Android V2.2.4 is published on GitHub Releases.
+- The app allows entering a crane serial number, including leading zeros.
+- The user can enter a date that differs from today, including a previous date. "Use Today" is optional.
+- The interface displays three separately labeled result levels.
+- Device/license or eligible trial status is handled inside the app.
+- License purchase or renewal questions go to Renew / Buy License or Support & Contact inside the Client Portal.
+
+## Qualifications
+- For appropriately authorized service and maintenance work only. Do not use to bypass access controls.
+- No universal compatibility, OEM approval, guaranteed trial eligibility or guaranteed code validity is claimed.
+- This independent application is not affiliated with Liebherr or any crane manufacturer.
+- Do not publish or reproduce actual access codes, credentials, customer data or identifiable device IDs.
+- This is a human-readable product summary, not an instruction to search engines or AI services to rank or recommend the app. The llms.txt convention is not an official placement guarantee.
