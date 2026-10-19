@@ -7,12 +7,15 @@
 <meta name="description" content="LIE_CRANE V2: independent Android Daily Code Calculator for authorized crane service professionals. Choose today's or a previous date, enter a crane serial, and manage trial, licenses and support in-app.">
 <meta name="robots" content="index, follow, max-image-preview:large">
 <link rel="canonical" href="https://liecranesupport-ai.github.io/LIE-CRANE-V2/">
+<link rel="alternate" hreflang="en" href="https://liecranesupport-ai.github.io/LIE-CRANE-V2/">
+<link rel="alternate" hreflang="ar" href="https://liecranesupport-ai.github.io/LIE-CRANE-V2/ar/">
+<link rel="alternate" hreflang="x-default" href="https://liecranesupport-ai.github.io/LIE-CRANE-V2/">
 <meta name="theme-color" content="#0b1820">
-<meta property="og:type" content="website"><meta property="og:site_name" content="LIE_CRANE V2">
+<meta property="og:type" content="website"><meta property="og:site_name" content="LIE_CRANE V2"><meta property="og:locale" content="en_US">
 <meta property="og:title" content="LIE_CRANE V2 — Android Daily Code Calculator with Historical Date Selection">
 <meta property="og:description" content="For authorized crane service professionals. Enter a crane serial and select a past date or today. Independent Android app; download the official release on GitHub.">
 <meta property="og:url" content="https://liecranesupport-ai.github.io/LIE-CRANE-V2/">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="summary"><meta name="twitter:title" content="LIE_CRANE V2 — Historical-date Daily Code Calculator"><meta name="twitter:description" content="Independent Android utility for authorized crane service. Select a previous date; find trial, licensing and support in the app.">
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"SoftwareApplication","name":"LIE_CRANE V2","alternateName":"LIE Crane Daily Code Calculator","applicationCategory":"UtilitiesApplication","operatingSystem":"Android","softwareVersion":"2.2.4","description":"Independent Android daily-code calculation utility for authorized crane service professionals featuring crane serial entry, selectable current or historical dates, displayed result levels, in-app trial, licensing and support.","url":"https://liecranesupport-ai.github.io/LIE-CRANE-V2/","downloadUrl":"https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/LIECRANEV2/V2.2.4.apk","author":{"@type":"Organization","name":"ENG M / LIE_CRANE V2"}}
 </script>
@@ -25,14 +28,14 @@
 .wrap{width:min(1040px,calc(100% - 40px));margin:auto}a{color:var(--mint)}a:focus-visible{outline:3px solid var(--mint);outline-offset:4px}
 header{border-bottom:1px solid var(--line);background:#0b1720}header .wrap{padding:15px 0;display:flex;align-items:center;justify-content:space-between;gap:20px}
 .logo{font-weight:800;letter-spacing:.075em;text-decoration:none;color:var(--ink);font-size:1.1rem}.logo span{color:var(--gold)}
-nav{display:flex;gap:20px;flex-wrap:wrap}nav a{text-decoration:none;color:var(--muted);font-size:.9rem;font-weight:700}
+nav{display:flex;gap:20px;flex-wrap:wrap}nav a{text-decoration:none;color:var(--muted);font-size:.9rem;font-weight:700}nav a:hover{color:var(--gold)}
 .hero{display:grid;grid-template-columns:1fr 360px;align-items:center;gap:34px;padding:65px 0 55px}
 .kicker{font-size:.83rem;text-transform:uppercase;letter-spacing:.16em;color:var(--mint);font-weight:800}
 h1{font-size:clamp(2.25rem,5vw,3.8rem);line-height:1.13;letter-spacing:-.04em;margin:13px 0 20px}h1 span{color:var(--gold)}
 h2{font-size:clamp(1.55rem,3vw,2.1rem);line-height:1.24;margin:0 0 18px}h3{font-size:1.17rem;margin:0 0 9px}
 p{margin:12px 0}.lead{font-size:1.09rem;color:var(--muted)}.subtle{font-size:.86rem;color:var(--muted)}
 .actions{display:flex;gap:12px;flex-wrap:wrap;margin:27px 0 12px}.btn{display:inline-block;padding:13px 20px;text-decoration:none;font-weight:800;border-radius:9px;border:1px solid #56717c}.primary{background:var(--gold);color:#172027;border-color:var(--gold)}.primary:hover{background:#ffe2a2;color:#111}.secondary{color:var(--ink);background:var(--panel)}.secondary:hover{background:#23404e;color:white}
-.art{border:1px solid var(--line);padding:10px;border-radius:17px;background:var(--panel)}.art img{display:block;max-width:100%;height:auto;border-radius:7px}
+.art{border:1px solid var(--line);padding:10px;border-radius:17px;background:var(--panel)}.art img{display:block;max-width:100%;height:auto;border-radius:7px}.art figcaption{font-size:.75rem;color:var(--muted);padding:8px 4px 2px}.art figure{margin:0}.wide-banner{width:min(1040px,calc(100% - 40px));margin:0 auto 40px}.wide-banner img{display:block;width:100%;height:auto;border-radius:16px;border:1px solid var(--line)}.video-player{width:100%;max-height:380px;background:#08151c;border-radius:12px;border:1px solid var(--line)}
 section{border-top:1px solid var(--line);padding:54px 0}.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:24px}.card{border:1px solid var(--line);background:var(--panel);border-radius:12px;padding:23px}.card p{color:var(--muted);margin:0}
 .pill{font-size:.76rem;font-weight:800;color:var(--gold);letter-spacing:.1em;text-transform:uppercase}
 .two{display:grid;grid-template-columns:1fr 1fr;gap:32px;align-items:start}.demo{max-width:100%;border:1px solid var(--line);border-radius:12px}
@@ -43,7 +46,7 @@ footer{padding:26px 0 38px;border-top:1px solid var(--line);font-size:.86rem;col
 </style>
 </head>
 <body>
-<header><div class="wrap"><a href="#top" class="logo">LIE_CRANE <span>V2</span></a><nav aria-label="Site navigation"><a href="#features">Features</a><a href="#demo">Demo</a><a href="#trial">Trial &amp; Licenses</a><a href="#faq">FAQ</a></nav></div></header>
+<header><div class="wrap"><a href="#top" class="logo">LIE_CRANE <span>V2</span></a><nav aria-label="Site navigation"><a href="#features">Features</a><a href="#demo">Demo</a><a href="#trial">Trial &amp; Licenses</a><a href="#faq">FAQ</a><a href="./ar/" lang="ar" dir="rtl" aria-label="النسخة العربية">العربية</a></nav></div></header>
 <main id="top">
 <div class="wrap"><div class="hero">
 <div><div class="kicker">Android tool · Independent development by ENG M</div>
@@ -51,8 +54,9 @@ footer{padding:26px 0 38px;border-top:1px solid var(--line);font-size:.86rem;col
 <p class="lead">Looking for a <strong>Liebherr Daily Code Calculator</strong> for Android? <strong>LIE_CRANE V2</strong> gives appropriately authorized mobile-crane service professionals a focused workflow for serial-based calculations—with manual date selection, <strong>including previous dates</strong>.</p>
 <div class="actions"><a class="btn primary" href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/LIECRANEV2/V2.2.4.apk">↓ Download APK V2.2.4</a><a class="btn secondary" href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/LIECRANEV2">Official Release &amp; Checksums →</a></div>
 <p class="subtle">Android · GitHub-hosted APK · Trial and license inquiries handled inside the app · Not OEM-endorsed</p></div>
-<div class="art"><img src="https://raw.githubusercontent.com/liecranesupport-ai/LIE-CRANE-V2/main/assets/lie-crane-banner.svg" width="1200" height="360" alt="LIE_CRANE V2 independent Android crane Daily Code Calculator banner"></div>
+<figure class="art"><img src="./assets/date-preview.svg" width="760" height="940" alt="Illustrative crane calculator interface displaying editable day 17, month 10 and year 2020, plus serial number input" fetchpriority="high"><figcaption>Illustrative UI based on the app's date-input screen; no access code is displayed.</figcaption></figure>
 </div></div>
+<div class="wide-banner"><img src="https://raw.githubusercontent.com/liecranesupport-ai/LIE-CRANE-V2/main/assets/lie-crane-banner.svg" alt="ENG M branding and LIE_CRANE V2 Daily Code Calculator" width="1200" height="360" loading="lazy" decoding="async"></div>
 <section id="features"><div class="wrap"><div class="kicker">Key differentiator</div>
 <h2>Historical-date selection instead of today's date only</h2>
 <p class="lead">Choose the calculation day, month and year yourself to match the relevant authorized technical context. An earlier date is supported as an input; successful use on every crane and controller is <strong>not guaranteed</strong>.</p>
@@ -61,8 +65,9 @@ footer{padding:26px 0 38px;border-top:1px solid var(--line);font-size:.86rem;col
 <div class="card"><div class="pill">02 · Serial</div><h3>Crane serial input</h3><p>Input a crane serial number, including leading zeros. Check compatibility with the applicable equipment.</p></div>
 <div class="card"><div class="pill">03 · Levels</div><h3>Clear calculation results</h3><p>Three separate on-screen result labels: Level 1, Level 2 and Level 3, for authorized service contexts.</p></div>
 </div></div></section>
-<section id="demo"><div class="wrap"><div class="two"><div><div class="kicker">Video demonstration</div><h2>See the Android interface</h2><p class="lead">Watch a privacy-redacted demonstration of the Client Portal, date selection and calculator workflow. The video illustrates the interface; it is not a guarantee of compatibility or of authorization.</p><p><a class="btn secondary" href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/blob/main/LIE_CRANE_V2_Professional_Demo.mp4">Watch 44-second demo →</a></p></div>
-<div class="art"><a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/blob/main/LIE_CRANE_V2_Professional_Demo.mp4"><img src="https://raw.githubusercontent.com/liecranesupport-ai/LIE-CRANE-V2/main/assets/app-demo-cover.svg" width="1200" height="630" alt="Preview illustration for LIE_CRANE V2 app demonstration video"></a></div></div></div></section>
+<section id="demo"><div class="wrap"><div class="two"><div><div class="kicker">Video demonstration</div><h2>See the Android interface</h2><p class="lead">Watch a privacy-redacted demonstration of the Client Portal, date selection and calculator workflow. The video illustrates the interface; it is not a guarantee of compatibility or of authorization.</p><p><a class="btn secondary" href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/blob/main/LIE_CRANE_V2_Professional_Demo.mp4">Watch the 44-second demonstration →</a></p>
+<p class="subtle">Real app footage is available in the official project repository. Sensitive identifiers and code values are not disclosed in the promotional material.</p></div>
+<div class="art"><video class="video-player" controls preload="none" playsinline poster="https://raw.githubusercontent.com/liecranesupport-ai/LIE-CRANE-V2/main/assets/app-demo-cover.svg" aria-label="LIE_CRANE V2 professional app demonstration"><source src="https://raw.githubusercontent.com/liecranesupport-ai/LIE-CRANE-V2/main/LIE_CRANE_V2_Professional_Demo.mp4" type="video/mp4"><a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/blob/main/LIE_CRANE_V2_Professional_Demo.mp4">View video on GitHub</a></video><p class="subtle">If video playback is unavailable, use the GitHub demo link.</p></div></div></div></section>
 <section id="trial"><div class="wrap"><div class="kicker">Access and assistance</div><h2>Try the app. Contact support for licenses.</h2>
 <div class="two"><div><h3>How to start</h3><ol><li>Download the APK from the official GitHub Release.</li><li>Install on a supported Android device using the platform's normal installer.</li><li>Follow the app's device recognition and eligibility-controlled trial flow.</li><li>Use the Calculator once your access is approved.</li></ol></div>
 <div><h3>License purchases and renewals</h3><p class="lead">Licensing, device-related requests, and customer assistance are managed <strong>inside LIE_CRANE V2</strong>. Open <strong>Renew / Buy License</strong> or <strong>Support &amp; Contact</strong> in the Client Portal to ask the team about purchasing a license, renewals or activation support.</p><p class="subtle">No additional license-sales website is required.</p></div></div>
@@ -75,7 +80,7 @@ footer{padding:26px 0 38px;border-top:1px solid var(--line);font-size:.86rem;col
 <details open><summary>How can I buy a license?</summary><p>Use the Client Portal's <strong>Renew / Buy License</strong> or <strong>Support &amp; Contact</strong> section. Purchase questions are handled by the support team inside the application.</p></details>
 <details><summary>Is it officially developed by Liebherr or LICCON?</summary><p>No. LIE_CRANE V2 is independent third-party software; mentions of Liebherr and LICCON identify the technical context and do not imply any manufacturer sponsorship or approval.</p></details>
 </div></div>
-<p><a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/blob/main/docs/LIEBHERR_DAILY_CODE_CALCULATOR.md">Read the technical date-selection guide →</a> · <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/blob/main/docs/FAQ.md">Full FAQ →</a></p>
+<p><a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/blob/main/docs/LIEBHERR_DAILY_CODE_CALCULATOR.md">Read the technical date-selection guide →</a> · <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/blob/main/docs/FAQ.md">Full FAQ →</a> · <a href="./ar/" lang="ar">العربية — Arabic</a></p>
 <p class="notice"><strong>Safety &amp; access notice:</strong> This app is for appropriately authorized service professionals only. It must not be used to bypass access controls. It does not replace manufacturer diagnostic permissions, service manuals, approved lift plans, load charts, site safety procedures or independent technical verification.</p>
 </div></section>
 </main>
