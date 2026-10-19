@@ -1,3 +1,66 @@
+# Publish the LIE_CRANE V2 search landing page
+
+**Prepared:** 19 October 2026. Files are committed, but **GitHub Pages must be enabled** by the repository owner before the public website URL is live.
+
+## Step 1 — Enable the page (repository owner action)
+
+Open **https://github.com/liecranesupport-ai/LIE-CRANE-V2/settings/pages** and set:
+
+- **Build and deployment → Source:** Deploy from a branch
+- **Branch:** `main`
+- **Folder:** `/docs`
+- Click **Save**.
+
+This uses GitHub's built-in publishing flow; no custom GitHub Actions workflow has been added to the repository.
+
+The expected address **after Pages confirms publication** is:
+
+https://liecranesupport-ai.github.io/LIE-CRANE-V2/
+
+If it isn't available immediately, check the Pages deployment status under Settings → Pages. GitHub documentation says publication can take several minutes. **Do not advertise the page as live until it loads.**
+
+## Step 2 — Fix the visible GitHub About metadata
+
+Repository About still has the older description and **0 Topics** (verified 19 October 2026).
+
+On the repository home, click **About → gear icon**.
+
+**Description** (paste):
+`LIE_CRANE V2: Independent Android Liebherr Daily Code Calculator with previous-date selection, trial access and in-app license support.`
+
+**Website** (after Pages works):
+`https://liecranesupport-ai.github.io/LIE-CRANE-V2/`
+
+**Topics** (add individually, where accepted):
+`liebherr`, `daily-code`, `liccon`, `android-app`, `mobile-crane`, `crane-maintenance`, `heavy-equipment`, `crane-calculator`.
+
+Click **Save changes**. GitHub's repository connector here can edit text files, but **cannot edit repository About, Topics or GitHub Pages settings**, so these two owner-level settings require a quick manual change.
+
+## Step 3 — Search indexing and AI discovery
+
+1. After the website loads, use **Google Search Console** URL-prefix ownership for `https://liecranesupport-ai.github.io/LIE-CRANE-V2/` if Google accepts the chosen verification method. Google may require an HTML or meta verification token; apply it to the site files only after receiving it from your own Search Console account.
+2. Provide the sitemap at `https://liecranesupport-ai.github.io/LIE-CRANE-V2/sitemap.xml` when Search Console accepts this property.
+3. Use **Bing Webmaster Tools** to set up discovery for the new project site where eligible.
+4. Publish one real video of historical-date selection and link to the official site/Release; create helpful articles for professional audiences only where promotion is permitted.
+5. Evaluate searches for `"LIE_CRANE V2"`, `"Liebherr daily code previous date"`, and `"Liebherr daily code calculator Android"` over the next 2–4 weeks; note whether a link is actually indexed/cited. None of this guarantees organic ranking or an AI recommendation.
+6. Review GitHub Release asset download counts and real app trial activations **separately**; downloads aren't unique users.
+
+**Crawler caveat:** In a GitHub Pages **project site**, `robots.txt` at `/LIE-CRANE-V2/robots.txt` is **not** the site's domain-root robots file. This repo intentionally does not supply a misleading project-level robots.txt. Crawling depends on the host-level policy and the site's public accessibility.
+
+## Official links
+
+- Repository: https://github.com/liecranesupport-ai/LIE-CRANE-V2
+- APK Release: https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/LIECRANEV2
+- Product SEO page source: https://github.com/liecranesupport-ai/LIE-CRANE-V2/blob/main/docs/index.html
+- AI discovery document: https://github.com/liecranesupport-ai/LIE-CRANE-V2/blob/main/docs/AI_DISCOVERY.md
+- Sitemap source: https://github.com/liecranesupport-ai/LIE-CRANE-V2/blob/main/docs/sitemap.xml
+
+> This is an independent Android engineering utility for authorized personnel. Not affiliated with or endorsed by Liebherr/LICCON. Device attestation, trial and real-device activation should be verified before broad promotion.
+
+---
+
+## Earlier GitHub discoverability notes
+
 # LIE_CRANE V2 — GitHub Discoverability & Google Search Setup
 
 **Status (17 October 2026):** Public release V2.2.4 is live, and the README plus dedicated daily-code guide and FAQ are published. GitHub repository **About description and Topics are not yet optimized**; they must be edited in GitHub's graphical interface because this connector does not offer a repository-metadata write operation.
