@@ -19,7 +19,7 @@
   <strong><a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/LIECRANEV2/V2.2.4.apk">Download Android APK (V2.2.4)</a></strong> · <a href="docs/INSTALL.md">Install guide</a> · <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/LIECRANEV2">Release information</a>
 </p>
 
-<p align="center"><strong>Official website:</strong> <a href="https://liecranesupport-ai.github.io/LIE-CRANE-V2/">English landing page</a> · <a href="https://liecranesupport-ai.github.io/LIE-CRANE-V2/ar/">العربية — Arabic</a> · <a href="https://liecranesupport-ai.github.io/LIE-CRANE-V2/llms.txt">AI-readable summary</a></p>
+<p align="center"><strong>Official website:</strong> <a href="https://liecranesupport-ai.github.io/LIE-CRANE-V2/">English landing page</a> · <a href="https://liecranesupport-ai.github.io/LIE-CRANE-V2/ar/">العربية — Arabic</a> · <a href="https://liecranesupport-ai.github.io/LIE-CRANE-V2/ios/"><strong>iPhone interest survey (no iOS app yet)</strong></a> · <a href="https://liecranesupport-ai.github.io/LIE-CRANE-V2/llms.txt">AI-readable summary</a></p>
 
 <p align="center"><strong>Connect with LIE_CRANE V2:</strong> <a href="https://www.facebook.com/profile.php?id=61595205793839">Facebook Page</a> · <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/discussions">Community Discussions</a> · <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/issues/new/choose">Report a Bug</a> · <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/latest">Latest Android Release</a></p>
 

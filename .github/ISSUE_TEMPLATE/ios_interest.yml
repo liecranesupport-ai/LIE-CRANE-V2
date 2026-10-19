@@ -1,0 +1,84 @@
+name: "iPhone / iOS interest — market survey"
+description: "Tell us if you would use an iPhone edition. Public market research only, not support or an iOS download."
+title: "[iOS interest] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **LIE_CRANE V2 for iPhone is not available.** This optional public survey helps estimate demand before a development decision.
+        Do not include your name, email, phone, crane serials, access codes, license credentials, or customer information.
+  - type: dropdown
+    id: device
+    attributes:
+      label: "What phone do you currently use for field work?"
+      options:
+        - iPhone / iOS
+        - Android
+        - Both
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: country
+    attributes:
+      label: "Main country of service work"
+      options:
+        - Egypt
+        - Saudi Arabia
+        - United Arab Emirates
+        - Other Middle East / North Africa
+        - Europe
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: role
+    attributes:
+      label: "Professional role"
+      options:
+        - Crane maintenance engineer
+        - Crane service technician
+        - Equipment owner / fleet manager
+        - Other authorized service role
+    validations:
+      required: true
+  - type: dropdown
+    id: interest
+    attributes:
+      label: "Would you use a verified iPhone version if it existed?"
+      options:
+        - Yes, I need it for my work
+        - Maybe, I would try it
+        - No, Android is sufficient
+    validations:
+      required: true
+  - type: dropdown
+    id: paid_license
+    attributes:
+      label: "Would you consider a paid license if it met your needs?"
+      options:
+        - Yes
+        - Maybe, depending on price and compatibility
+        - No
+    validations:
+      required: true
+  - type: dropdown
+    id: discovery
+    attributes:
+      label: "Where did you first hear about LIE_CRANE V2?"
+      options:
+        - GitHub / Official website
+        - Google / AI search
+        - Facebook / Social media
+        - Engineering forum
+        - Colleague
+        - Other
+    validations:
+      required: true
+  - type: checkboxes
+    id: public
+    attributes:
+      label: "Public survey confirmation"
+      options:
+        - label: "I understand this request is public, does not register me for a trial, and does not guarantee an iOS release."
+          required: true
