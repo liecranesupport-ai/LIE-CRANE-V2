@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://liecranesupport-ai.github.io/LIE-CRANE-V2/</loc></url>
+  <url>
+    <loc>https://liecranesupport-ai.github.io/LIE-CRANE-V2/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link xmlns:xhtml="http://www.w3.org/1999/xhtml" rel="alternate" hreflang="en" href="https://liecranesupport-ai.github.io/LIE-CRANE-V2/"/>
+    <xhtml:link xmlns:xhtml="http://www.w3.org/1999/xhtml" rel="alternate" hreflang="ar" href="https://liecranesupport-ai.github.io/LIE-CRANE-V2/ar/"/>
+  </url>
+  <url>
+    <loc>https://liecranesupport-ai.github.io/LIE-CRANE-V2/ar/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link xmlns:xhtml="http://www.w3.org/1999/xhtml" rel="alternate" hreflang="en" href="https://liecranesupport-ai.github.io/LIE-CRANE-V2/"/>
+    <xhtml:link xmlns:xhtml="http://www.w3.org/1999/xhtml" rel="alternate" hreflang="ar" href="https://liecranesupport-ai.github.io/LIE-CRANE-V2/ar/"/>
+  </url>
 </urlset>
