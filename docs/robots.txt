@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://liecranesupport-ai.github.io/LIE-CRANE-V2/sitemap.xml
