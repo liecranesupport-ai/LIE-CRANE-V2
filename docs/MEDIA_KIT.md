@@ -5,6 +5,8 @@
 **Platform:** Android  
 **Official distribution:** [V2.2.4 APK](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/LIECRANEV2/V2.2.4.apk) · [Public release](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/LIECRANEV2)  
 **Current supplied build:** V2.2.4
+**Official English website:** https://liecranesupport-ai.github.io/LIE-CRANE-V2/
+**Official Arabic website:** https://liecranesupport-ai.github.io/LIE-CRANE-V2/ar/
 
 ## Short description (for directory listings)
 LIE_CRANE V2 is an independent Android daily code calculation tool for crane professionals, featuring crane-serial input, manually selectable calculation dates—including historical dates—multiple output levels, device-based license management, trial access and in-app customer support.
