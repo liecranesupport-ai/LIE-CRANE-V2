@@ -22,6 +22,7 @@
 <p align="center"><strong>Connect with LIE_CRANE V2:</strong> <a href="https://www.facebook.com/profile.php?id=61595205793839">Facebook Page</a> · <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/discussions">Community Discussions</a> · <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/issues/new/choose">Report a Bug</a> · <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/latest">Latest Android Release</a></p>
 
 <p align="center">
+  <a href="docs/AI_DISCOVERY.md"><strong>Search &amp; AI Discovery</strong></a> ·
   <a href="docs/LIEBHERR_DAILY_CODE_CALCULATOR.md"><strong>Daily Code &amp; Date Selection</strong></a> ·
   <a href="docs/FAQ.md"><strong>FAQ</strong></a> ·
   <a href="docs/INSTALL.md"><strong>Install</strong></a> ·
