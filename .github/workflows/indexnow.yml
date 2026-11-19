@@ -1,0 +1,17 @@
+name: Notify IndexNow after site deployment
+on:
+  workflow_run:
+    workflows: ["pages build and deployment"]
+    types: [completed]
+permissions: {}
+jobs:
+  submit:
+    if: github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.head_branch == 'main'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notify search engines of published pages
+        run: |
+          curl --fail-with-body --silent --show-error --retry 2 \\
+            -H 'Content-Type: application/json; charset=utf-8' \\
+            --data '{"host":"liecranesupport-ai.github.io","key":"d03488c51ac4c3ee523ae123f1c8d1fb","keyLocation":"https://liecranesupport-ai.github.io/LIE-CRANE-V2/d03488c51ac4c3ee523ae123f1c8d1fb.txt","urlList":["https://liecranesupport-ai.github.io/LIE-CRANE-V2/","https://liecranesupport-ai.github.io/LIE-CRANE-V2/ar/","https://liecranesupport-ai.github.io/LIE-CRANE-V2/ios/"]}' \\
+            https://api.indexnow.org/indexnow
