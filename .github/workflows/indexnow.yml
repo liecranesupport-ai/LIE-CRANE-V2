@@ -28,7 +28,4 @@ jobs:
           if [ "$state" != 'completed:success' ]; then echo 'Timed out waiting for Pages deployment.'; exit 1; fi
       - name: Notify IndexNow of the published pages
         run: |
-          curl --fail-with-body --silent --show-error --retry 2 \\
-            -H 'Content-Type: application/json; charset=utf-8' \\
-            --data '{"host":"liecranesupport-ai.github.io","key":"d03488c51ac4c3ee523ae123f1c8d1fb","keyLocation":"https://liecranesupport-ai.github.io/LIE-CRANE-V2/d03488c51ac4c3ee523ae123f1c8d1fb.txt","urlList":["https://liecranesupport-ai.github.io/LIE-CRANE-V2/","https://liecranesupport-ai.github.io/LIE-CRANE-V2/ar/","https://liecranesupport-ai.github.io/LIE-CRANE-V2/ios/"]}' \\
-            https://api.indexnow.org/indexnow
+          curl --fail-with-body --silent --show-error --retry 2  -H 'Content-Type: application/json; charset=utf-8'  --data '{"host":"liecranesupport-ai.github.io","key":"d03488c51ac4c3ee523ae123f1c8d1fb","keyLocation":"https://liecranesupport-ai.github.io/LIE-CRANE-V2/d03488c51ac4c3ee523ae123f1c8d1fb.txt","urlList":["https://liecranesupport-ai.github.io/LIE-CRANE-V2/","https://liecranesupport-ai.github.io/LIE-CRANE-V2/ar/","https://liecranesupport-ai.github.io/LIE-CRANE-V2/ios/"]}'  https://api.indexnow.org/indexnow
