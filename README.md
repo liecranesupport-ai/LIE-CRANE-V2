@@ -5,18 +5,18 @@
 <p align="center"><em>Independent third-party app for authorized mobile-crane service and maintenance professionals.</em></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Android-7.0%2B-26A69A?style=flat-square" alt="Android 7.0+">
-  <img src="https://img.shields.io/badge/Latest%20App-2.2.4-D4A548?style=flat-square" alt="App version 2.2.4">
+  <img src="https://img.shields.io/badge/Latest%20App-2.5.0-D4A548?style=flat-square" alt="App version 2.5.0">
   <img src="https://img.shields.io/badge/Trial-In--App-238F81?style=flat-square" alt="In-app trial">
   <img src="https://img.shields.io/badge/Support-In--App-3B83A5?style=flat-square" alt="In-app support">
 </p>
 
 <p align="center">
-  <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/LIECRANEV2/V2.2.4.apk"><img src="https://img.shields.io/badge/⬇_DOWNLOAD_APK-V2.2.4-20C8B0?style=for-the-badge" alt="Download LIE_CRANE V2.2.4 APK" /></a>
-  <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/LIECRANEV2"><img src="https://img.shields.io/badge/GitHub-View_Release-D4A548?style=for-the-badge" alt="View verified public GitHub release" /></a>
+  <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/v2.5.0/2.5.0_liccon3.apk"><img src="https://img.shields.io/badge/⬇_DOWNLOAD_APK-V2.5.0-20C8B0?style=for-the-badge" alt="Download LIE_CRANE V2.5.0 APK" /></a>
+  <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/v2.5.0"><img src="https://img.shields.io/badge/GitHub-View_Release-D4A548?style=for-the-badge" alt="View verified public GitHub release" /></a>
 </p>
 
 <p align="center">
-  <strong><a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/LIECRANEV2/V2.2.4.apk">Download Android APK (V2.2.4)</a></strong> · <a href="docs/INSTALL.md">Install guide</a> · <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/LIECRANEV2">Release information</a>
+  <strong><a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/v2.5.0/2.5.0_liccon3.apk">Download Android APK (V2.5.0)</a></strong> · <a href="docs/INSTALL.md">Install guide</a> · <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/v2.5.0">Release information</a>
 </p>
 
 <p align="center"><strong>Official website:</strong> <a href="https://liecranesupport-ai.github.io/LIE-CRANE-V2/">English landing page</a> · <a href="https://liecranesupport-ai.github.io/LIE-CRANE-V2/ar/">العربية — Arabic</a> · <a href="https://liecranesupport-ai.github.io/LIE-CRANE-V2/ios/"><strong>iPhone interest survey (no iOS app yet)</strong></a> · <a href="https://liecranesupport-ai.github.io/LIE-CRANE-V2/llms.txt">AI-readable summary</a></p>
@@ -54,6 +54,10 @@ This is a focused feature for authorized maintenance and technical workflows; su
 
 **Mobile crane technicians** · **Crane maintenance engineers** · **Authorized service personnel** · **Heavy equipment technical support teams**
 
+## New in 2.5.0: LICCON 3
+
+Choose **LICCON 1 & 2** or the new **LICCON 3** option after entering the crane serial and date. Both use the existing device and license checks and display three result levels with copy controls.
+
 ## 🚀 Why LIE_CRANE V2?
 
 | Feature | What you get |
@@ -79,7 +83,7 @@ The workflow displayed in the application:
 1. Open **Crane Calculator** from the Client Portal.
 2. Enter the crane serial number.
 3. Choose **day, month and year**, or select **Use Today**.
-4. Select **Calculate** to view the available results for that input.
+4. Select **Calculate LICCON 1 & 2** or **Calculate LICCON 3** to view the results.
 5. Use the result appropriate to your **authorized access level**.
 
 **Example:** A user may enter **17 October 2020** even when the current date is different. This illustrates the manual date-selection capability; it is not an assurance that any crane or access system accepts a particular result.
@@ -93,7 +97,7 @@ The workflow displayed in the application:
 </p>
 
 <p align="center">
-  <strong><a href="LIE_CRANE_V2_Professional_Demo.mp4">▶ WATCH THE APP DEMO (44 seconds)</a></strong> · <a href="https://raw.githubusercontent.com/liecranesupport-ai/LIE-CRANE-V2/main/LIE_CRANE_V2_Professional_Demo.mp4">Download MP4</a> · <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/LIECRANEV2/V2.2.4.apk">Download Android APK</a>
+  <strong><a href="LIE_CRANE_V2_Professional_Demo.mp4">▶ WATCH THE APP DEMO (44 seconds)</a></strong> · <a href="https://raw.githubusercontent.com/liecranesupport-ai/LIE-CRANE-V2/main/LIE_CRANE_V2_Professional_Demo.mp4">Download MP4</a> · <a href="https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/v2.5.0/2.5.0_liccon3.apk">Download Android APK</a>
 </p>
 
 A short walkthrough of the Client Portal, manual date selection, calculation screens and in-app support. Personal details, support identifiers and actual calculation values are obscured in the public demo. The interface shown is illustrative of app functionality and does not constitute verification of crane compatibility or authorization.
@@ -106,21 +110,21 @@ The app includes a **Client Portal**, **Calculation Details**, and **Calculation
   <img src="assets/daily-code-workflow.svg" alt="Illustration of the actual app's workflow: crane serial, selectable calculation date and three code levels" width="100%">
 </p>
 
-<sub>This vector diagram illustrates the workflow; it is not a screenshot. Real screenshots supplied by the developer show V2.2.3, while the published Android APK is V2.2.4. Public screenshots will be added after appropriate redaction.</sub>
+<sub>This vector diagram illustrates the workflow; it is not a screenshot. Real screenshots supplied by the developer show V2.2.3, while the published Android APK is V2.5.0. Public screenshots will be added after appropriate redaction.</sub>
 
 ## 📥 Download & install
 
-**LIE_CRANE V2.2.4 is now officially published on GitHub Releases.**
+**LIE_CRANE V2.5.0 is now officially published on GitHub Releases.**
 
-### ➡️ [Download V2.2.4 APK (Android)](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/LIECRANEV2/V2.2.4.apk)
+### ➡️ [Download V2.5.0 APK (Android)](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/v2.5.0/2.5.0_liccon3.apk)
 
-[**View the published release**](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/LIECRANEV2) · [**Step-by-step installation guide**](docs/INSTALL.md) · [**Release information**](docs/RELEASE_BODY_v2.2.4.md) · [**Daily code date-selection guide**](docs/LIEBHERR_DAILY_CODE_CALCULATOR.md) · [**Frequently asked questions**](docs/FAQ.md)
+[**View the published release**](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/v2.5.0) · [**Step-by-step installation guide**](docs/INSTALL.md) · [**Release information**](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/v2.5.0) · [**Daily code date-selection guide**](docs/LIEBHERR_DAILY_CODE_CALCULATOR.md) · [**Frequently asked questions**](docs/FAQ.md)
 
-**File:** `V2.2.4.apk` · **Size:** 2.96 MB · **Android:** 7.0+ · **Version:** 2.2.4
+**File:** `2.5.0_liccon3.apk` · **Size:** 2.96 MB · **Android:** 7.0+ · **Version:** 2.5.0
 
 **Published SHA-256:**
 ```text
-52edb324d7a5e7d335fdb9d8403fabee0d16c2cdc5ad599d9da5909080304b16
+51ccd456394d99fc312d400de8a143958af35708666b2d7a69507d11cbad6839
 ```
 
 1. Download the original APK using the link above or via **Assets** on the GitHub Release.
@@ -185,7 +189,7 @@ Use **Renew / Buy License** or **Support & Contact** inside the application. The
 
 **Official project:** https://github.com/liecranesupport-ai/LIE-CRANE-V2
 
-For colleagues searching for **Liebherr Daily Code**, **LICCON Daily Code Calculator**, **crane serial code**, or **historical-date crane calculation**, share the **[dedicated feature guide](docs/LIEBHERR_DAILY_CODE_CALCULATOR.md)** or the **[public V2.2.4 release](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/LIECRANEV2)**.
+For colleagues searching for **Liebherr Daily Code**, **LICCON Daily Code Calculator**, **crane serial code**, or **historical-date crane calculation**, share the **[dedicated feature guide](docs/LIEBHERR_DAILY_CODE_CALCULATOR.md)** or the **[public V2.5.0 release](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/v2.5.0)**.
 
 For license purchase and activation questions, contact **Support & Contact** inside the app.
 

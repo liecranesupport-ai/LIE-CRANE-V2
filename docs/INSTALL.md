@@ -1,16 +1,16 @@
 # Install LIE_CRANE V2 on Android
 
-> **Official Android APK:** [**Download LIE_CRANE V2.2.4**](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/LIECRANEV2/V2.2.4.apk)  
-> **Official release:** [LIE_CRANE V2.2.4 on GitHub](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/LIECRANEV2)
+> **Official Android APK:** [**Download LIE_CRANE V2.5.0**](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/download/v2.5.0/2.5.0_liccon3.apk)  
+> **Official release:** [LIE_CRANE V2.5.0 on GitHub](https://github.com/liecranesupport-ai/LIE-CRANE-V2/releases/tag/v2.5.0)
 
-**Current public release:** V2.2.4 (`com.engm.liecrane.client`).  
+**Current public release:** V2.5.0 (`com.engm.liecrane.client`).  
 **Minimum Android:** Android 7.0 (API 24), as indicated by the submitted APK.  
-**Distribution status:** **Published.** Download `V2.2.4.apk` from the public GitHub release.  
-**SHA-256:** `52edb324d7a5e7d335fdb9d8403fabee0d16c2cdc5ad599d9da5909080304b16`
+**Distribution status:** **Published.** Download `2.5.0_liccon3.apk` from the public GitHub release.  
+**SHA-256:** `51ccd456394d99fc312d400de8a143958af35708666b2d7a69507d11cbad6839`
 
 ## Installation
 1. Visit the official **Releases** page above.
-2. Select the published V2.2.4 release and expand **Assets**.
+2. Select the published V2.5.0 release and expand **Assets**.
 3. Download the `.apk` asset.
 4. Verify the SHA-256 against the value supplied on the same Release page.
 5. Open the file and follow Android's prompts for permission to install from that browser or file manager, only if Android requires it.
@@ -27,7 +27,7 @@ For license purchase or renewal, open the **Renew / Buy License** section of the
 1. Enter your crane serial number. Leading zeros are preserved.
 2. Set the calculation day, month and year.
 3. Choose a date different from today when needed — for example, a historical date corresponding to the date shown on the crane.
-4. Tap **Calculate** and review the displayed result levels.
+4. Choose **Calculate LICCON 1 & 2** or **Calculate LICCON 3** and review the displayed result levels.
 
 ### Important
 The user must be **authorized to access the relevant crane service functionality**. This app is independent, unaffiliated with Liebherr or other equipment manufacturers and does not replace approved service procedures, OEM documentation or lift-safety controls.
