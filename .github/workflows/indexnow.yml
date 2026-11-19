@@ -1,15 +1,32 @@
 name: Notify IndexNow after site deployment
 on:
-  workflow_run:
-    workflows: ["pages build and deployment"]
-    types: [completed]
-permissions: {}
+  push:
+    branches: [main]
+    paths:
+      - 'docs/**'
+      - '.github/workflows/indexnow.yml'
+  workflow_dispatch:
+permissions:
+  actions: read
+  contents: read
 jobs:
   submit:
-    if: github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.head_branch == 'main'
     runs-on: ubuntu-latest
+    timeout-minutes: 8
     steps:
-      - name: Notify search engines of published pages
+      - name: Wait for the same commit to finish Pages deployment
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          state=''
+          for attempt in $(seq 1 36); do
+            state=$(gh api "repos/${GITHUB_REPOSITORY}/actions/runs?head_sha=${GITHUB_SHA}&per_page=100" --jq '[.workflow_runs[] | select(.name == "pages build and deployment")][0] | if . then (.status + ":" + (.conclusion // "")) else "pending" end' 2>/dev/null || true)
+            if [ "$state" = 'completed:success' ]; then break; fi
+            if [[ "$state" == completed:* ]]; then echo 'Pages deployment did not succeed.'; exit 1; fi
+            sleep 10
+          done
+          if [ "$state" != 'completed:success' ]; then echo 'Timed out waiting for Pages deployment.'; exit 1; fi
+      - name: Notify IndexNow of the published pages
         run: |
           curl --fail-with-body --silent --show-error --retry 2 \\
             -H 'Content-Type: application/json; charset=utf-8' \\
